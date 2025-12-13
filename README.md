@@ -345,10 +345,6 @@ ml-regression-models/
 │   └── data_preprocessor.py             # Reusable preprocessing class
 │
 ├── visualizations/
-│   ├── ridge_comparison.png             # Ridge λ comparison plot
-│   ├── rbf_comparison.png               # RBF basis function comparison
-│   ├── polynomial_accuracy.png          # Accuracy vs polynomial degree
-│   └── roc_curve.png                    # ROC curve for best model
 │
 ├── requirements.txt                     # Python dependencies
 ├── README.md                            # Project documentation
