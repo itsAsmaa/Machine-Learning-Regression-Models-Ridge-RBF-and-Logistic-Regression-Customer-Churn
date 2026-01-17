@@ -17,6 +17,7 @@ A comprehensive implementation of non-linear regression techniques and logistic 
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
 - [License](#license)
+- [Authors](#Authors)
 
 ## Overview
 
