@@ -384,3 +384,15 @@ For questions or feedback, please open an issue on GitHub.
 - Scikit-learn Documentation: [Polynomial Features](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.PolynomialFeatures.html)
 - Understanding the Bias-Variance Trade-off
 - Radial Basis Function Networks
+
+## Authors
+
+* **Asma’a Abdalrahman Shejaeya** — Student ID: 1210084  
+  GitHub: https://github.com/AsmaaShejaeya
+
+* **Khaled Azmi Rimawi** — Student ID: 1210618  
+  GitHub: https://github.com/KhaledRimawi
+
+Department of Electrical & Computer Engineering  
+Birzeit University
+  
